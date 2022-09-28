@@ -1,5 +1,5 @@
 require "test/unit"
-require_relative "../greetings/lib/b.rb"
+require_relative "../lib/greeting"
 
 class GreetingTest < Test::Unit::TestCase
   def test_greeting
